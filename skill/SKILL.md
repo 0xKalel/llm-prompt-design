@@ -1,6 +1,12 @@
 ---
 name: prompt-design
-description: The rules governing Ravenclip's LLM prompts. Read BEFORE editing anything in app/Ai/Agents/, app/Ai/Script/, app/Ai/Blueprint/, the prompt-feeding enums, agent instructions(), the writer/scene-director/enrichment prompts, banned families, exemplars, quality gates, or the retention critic. Triggers on: prompt, writer prompt, scene director, banned family, exemplar, hook, script generation rules, "the model keeps saying X".
+description: >-
+  The rules governing Ravenclip's LLM prompts. Read BEFORE editing anything in
+  app/Ai/Agents/, app/Ai/Script/, app/Ai/Blueprint/, the prompt-feeding enums,
+  agent instructions(), the writer/scene-director/enrichment prompts, banned
+  families, exemplars, quality gates, or the retention critic. Triggers on
+  prompt, writer prompt, scene director, banned family, exemplar, hook, script
+  generation rules, "the model keeps saying X".
 ---
 
 # Prompt design (pointer skill)
